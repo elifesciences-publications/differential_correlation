@@ -1,6 +1,6 @@
 # README
 
-The code provided here implements the method described in "Genetic and environmental perturbations lead to regulatory decoherence" (https://www.biorxiv.org/content/early/2018/07/14/369306). The method is referred to as "Correlation by Individual Level Product" or CILP.
+The code provided here implements the method described in Lea et al., 2019 "Genetic and environmental perturbations lead to regulatory decoherence" (http://dx.doi.org/10.7554/eLife.40538). The method is referred to as "Correlation by Individual Level Product" or CILP.
 
 The goal of the method is to test whether a predictor variable (e.g., environment, disease status, or genotype) affects the degree to which two variables are correlated. 
 
